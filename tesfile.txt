@@ -3,11 +3,12 @@
 <title> Fifa </title>
 </head>
 
-<body>
-<h1> Football Game </h1>
+<body style="color:yellow;">
+<h1 style='text-align:center;"> Football Game </h1>
 <p style="color:powderblue;"> This game is very popular within the world </p>
+
 <pre>
-Fifa as stated is a virtual game related to football.
+<abbr title="Fédération Internationale de Football Association">Fifa</abbr> as stated is a virtual game related to football.
 
 Its game designing rights are owned by EA sport(commonnly known as 'Electronic Arts')
 
@@ -15,6 +16,7 @@ The first game was introduced in 1992.
 
 Today it is the most loved and played game in world.
 </pre>
+
 <a href="https://www.ea.com/games/fifa">Visit main page</a>
 
 <img src="FIFA-19-Ultimate-Team.jpg" alt="Fifa 20 cover" width='500' height='600'>
