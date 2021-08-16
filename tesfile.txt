@@ -17,7 +17,21 @@ The first game was introduced in 1992.
 Today it is the most loved and played game in world.
 </pre>
 
-<a href="https://www.ea.com/games/fifa">Visit main page</a>
+<p>Here is a Quote from Fifa website:</p>
+
+<backquote cite="https://www.ea.com/games/fifa">
+ The legendary FIFA series has been produced by EA SPORTS for over 20 years, 
+ and is now the largest sports video game franchise on the planet. 
+ FIFA brings The World’s Game to life, letting you play with the biggest leagues, 
+ clubs, and players in world football, all with incredible detail and realism. 
+ Whether you want to build your dream squad in FIFA Ultimate Team, 
+ lead your favourite club to glory in Career Mode, take the 
+ game back to the streets with EA SPORTS VOLTA FOOTBALL, or get 
+ bragging rights over a friend in Kick-Off Mode, 
+ the FIFA series lets you play The World’s Game your way.
+</backquote>
+
+<a href="https://www.ea.com/games/fifa" target="_blank">Visit main page</a>
 
 <img src="FIFA-19-Ultimate-Team.jpg" alt="Fifa 20 cover" width='500' height='600'>
 
